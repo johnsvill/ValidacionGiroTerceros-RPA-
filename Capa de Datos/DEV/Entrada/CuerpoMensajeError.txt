@@ -1,0 +1,6 @@
+Estimado(a) {0}:
+
+Ocurrio un error al tratar de extraer los datos del archivo: {1}.
+
+Saludos,
+RPA Itau

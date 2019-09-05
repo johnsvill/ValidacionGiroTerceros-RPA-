@@ -1,0 +1,6 @@
+Estimado(a) {0}:
+
+El archivo: {1}, no cumple los requisitos para realizar el movimiento.
+
+Saludos,
+RPA Itau
